@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Prac02</string>
+    <string-array name="arenas_array">
+        <item>Arena 1</item>
+        <item>Arena 2</item>
+        <item>Arena 3</item>
+        <item>Arena 4</item>
+        <item>Arena 5</item>
+        <item>Juego</item>
+    </string-array>
+    <string-array name="pregunta">
+    <item>Que carta usa un pico</item>
+    <item>Que carta es una torre</item>
+    <item>Que carta va encima de un cerdo</item>
+    <item>Que carta es de tipo voladora</item>
+    <item>Que carta puede ir directamente a la torre</item>
+    <item>Que carta es comun</item>
+    <item>Que carta lleva una corona</item>
+    <item>Que carta comun vale 3</item>
+    <item>Que carta tiene 2 vidas</item>
+    <item>Que carta vale 5</item>
+</string-array>
+    <string-array name="respuesta">
+        <item>minero</item>
+        <item>torre infernal</item>
+        <item>montapuerco</item>
+        <item>sabueso</item>
+        <item>minero</item>
+        <item>duendes</item>
+        <item>princesa</item>
+        <item>cañon</item>
+        <item>principe oscuro</item>
+        <item>torre infernal</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+</resources>
